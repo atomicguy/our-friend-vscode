@@ -10,7 +10,7 @@
         // Base colors
         // "focusBorder": "#f00", //7
         "foreground": "#FBE5C6", //5
-        "widget.shadow": "#321513", //0
+        "widget.shadow": "#250F0E", //0
         "selection.background": "#308e95", //D
         "descriptionForeground": "#A48B79", //3
         "errorForeground": "#DB72AE", //8
@@ -242,7 +242,7 @@
 
         // Editor widget colors
         "editorWidget.foreground": "#FBE5C6", //5
-        "editorWidget.background": "#321513", //0
+        "editorWidget.background": "#6b5046", //0
         // "editorWidget.border": "#f00",
         // "editorWidget.resizeBorder": "#f00",
         "editorSuggestWidget.background": "#4E322C", //1
