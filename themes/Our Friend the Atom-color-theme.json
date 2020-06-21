@@ -201,7 +201,7 @@
         "editorOverviewRuler.selectionHighlightForeground": "#6B50466f", //2
         "editorOverviewRuler.wordHighlightForeground": "#FDFBEC6f", //7
         "editorOverviewRuler.wordHighlightStrongForeground": "#308e956f", //D
-        "editorOverviewRuler.modifiedForeground": "#9E4F70", //E
+        "editorOverviewRuler.modifiedForeground": "#63CCE3", //E
         "editorOverviewRuler.addedForeground": "#589ACE", //B
         "editorOverviewRuler.deletedForeground": "#DB72AE", //8
         "editorOverviewRuler.errorForeground": "#DB72AE", //8
@@ -230,7 +230,7 @@
         "editorGutter.addedBackground": "#589ACE", //B
         "editorGutter.background": "#321513", //0
         "editorGutter.deletedBackground": "#DB72AE", //8
-        "editorGutter.modifiedBackground": "#9E4F70", //E
+        "editorGutter.modifiedBackground": "#63CCE3", //E
         "editorGutter.commentRangeForeground": "#DEC7AC", //4
 
         // Diff editor colors
@@ -307,21 +307,21 @@
         "statusBar.debuggingBackground": "#DB7D33", //9
         "statusBar.debuggingForeground": "#FDFBEC", //7
         // "statusBar.debuggingBorder": "",
-        "statusBar.noFolderBackground": "#9E4F70", //E
+        "statusBar.noFolderBackground": "#63CCE3", //E
         "statusBar.noFolderForeground": "#FDFBEC", //7
         // "statusBar.noFolderBorder": "",
         "statusBarItem.activeBackground": "#A48B79", //3
         "statusBarItem.hoverBackground": "#6B5046", //2
         "statusBarItem.prominentForeground": "#FDFBEC", //7
-        "statusBarItem.prominentBackground": "#9E4F70", //E
+        "statusBarItem.prominentBackground": "#63CCE3", //E
         "statusBarItem.prominentHoverBackground": "#DB72AE", //8
         "statusBarItem.remoteBackground": "#589ACE", //B
         "statusBarItem.remoteForeground": "#FDFBEC", //7
 
         // Title bar colors (macOS)
-        "titleBar.activeBackground": "#321513", //0
+        "titleBar.activeBackground": "#250F0E", //0
         "titleBar.activeForeground": "#FBE5C6", //5
-        "titleBar.inactiveBackground": "#4E322C", //1
+        "titleBar.inactiveBackground": "#312513", //1
         "titleBar.inactiveForeground": "#A48B79", //3
         // "titleBar.border": "#f00",
 
@@ -385,7 +385,7 @@
         "terminal.ansiGreen": "#589ACE", //B
         "terminal.ansiYellow": "#D55D5C", //A
         "terminal.ansiBlue": "#308e95", //D
-        "terminal.ansiMagenta": "#9E4F70", //E
+        "terminal.ansiMagenta": "#63CCE3", //E
         "terminal.ansiCyan": "#43AC75", //C
         "terminal.ansiWhite": "#FBE5C6", //5
         "terminal.ansiBrightBlack": "#A48B79", //3
@@ -393,7 +393,7 @@
         "terminal.ansiBrightGreen": "#589ACE", //B
         "terminal.ansiBrightYellow": "#D55D5C", //A
         "terminal.ansiBrightBlue": "#308e95", //D
-        "terminal.ansiBrightMagenta": "#9E4F70", //E
+        "terminal.ansiBrightMagenta": "#63CCE3", //E
         "terminal.ansiBrightCyan": "#43AC75", //C
         "terminal.ansiBrightWhite": "#FDFBEC", //7
         // "terminal.selectionBackground": "#f0f",
@@ -413,7 +413,7 @@
         "walkThrough.embeddedEditorBackground": "#321513", //0
 
         // Git colors
-        "gitDecoration.modifiedResourceForeground": "#9E4F70", //E
+        "gitDecoration.modifiedResourceForeground": "#63CCE3", //E
         "gitDecoration.deletedResourceForeground": "#DB72AE", //8
         "gitDecoration.untrackedResourceForeground": "#589ACE", //B
         "gitDecoration.ignoredResourceForeground": "#A48B79", //3
@@ -470,7 +470,7 @@
         "symbolIcon.functionForeground": "#308e95", //D,
         "symbolIcon.interfaceForeground": "#308e95", //D
         "symbolIcon.keyForeground": "#f0f",
-        "symbolIcon.keywordForeground": "#9E4F70", //E
+        "symbolIcon.keywordForeground": "#63CCE3", //E
         "symbolIcon.methodForeground": "#308e95", //D
         "symbolIcon.moduleForeground": "#FBE5C6", //5
         "symbolIcon.namespaceForeground": "#FBE5C6", //5
@@ -502,7 +502,7 @@
         "debugIcon.restartForeground": "#589ACE", //B
         "debugIcon.stepOverForeground": "#308e95", //D
         "debugIcon.stepIntoForeground": "#43AC75", //C
-        "debugIcon.stepOutForeground": "#9E4F70", //E
+        "debugIcon.stepOutForeground": "#63CCE3", //E
         "debugIcon.continueForeground": "#589ACE", //B
         "debugIcon.stepBackForeground": "#6F4EBC" //F
     },
@@ -575,7 +575,7 @@
                 "storage.modifier"
             ],
             "settings": {
-                "foreground": "#9E4F70" //E
+                "foreground": "#63CCE3" //E
             }
         },
         {
@@ -588,7 +588,7 @@
                 "keyword.control.as"
             ],
             "settings": {
-                "foreground": "#9E4F70" //E
+                "foreground": "#63CCE3" //E
             }
         },
         {
@@ -608,7 +608,7 @@
                 "storage.type.ts"
             ],
             "settings": {
-                "foreground": "#9E4F70" //E
+                "foreground": "#63CCE3" //E
             }
         },
         {
@@ -897,7 +897,7 @@
                 "markup.changed"
             ],
             "settings": {
-                "foreground": "#9E4F70" //E
+                "foreground": "#63CCE3" //E
             }
         },
         {
@@ -947,7 +947,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#9E4F70" //E
+                "foreground": "#63CCE3" //E
             }
         },
         {
@@ -1047,7 +1047,7 @@
                 "text.html.markdown markup.inline.raw.markdown"
             ],
             "settings": {
-                "foreground": "#9E4F70" //E
+                "foreground": "#63CCE3" //E
             }
         },
         {
@@ -1158,7 +1158,7 @@
                 "string.other.link.description.title.markdown"
             ],
             "settings": {
-                "foreground": "#9E4F70" //E
+                "foreground": "#63CCE3" //E
             }
         },
         {
@@ -1176,7 +1176,7 @@
                 "markup.raw.block"
             ],
             "settings": {
-                "foreground": "#9E4F70" //E
+                "foreground": "#63CCE3" //E
             }
         },
         {
@@ -1204,7 +1204,7 @@
                 "variable.language.fenced.markdown"
             ],
             "settings": {
-                "foreground": "#9E4F70" //E
+                "foreground": "#63CCE3" //E
             }
         },
         {
@@ -1232,7 +1232,7 @@
                 "markup.table"
             ],
             "settings": {
-                "foreground": "#9E4F70" //E
+                "foreground": "#63CCE3" //E
             }
         },
         {
@@ -1256,7 +1256,7 @@
         {
             "scope": "token.debug-token",
             "settings": {
-                "foreground": "#9E4F70" //E
+                "foreground": "#63CCE3" //E
             }
         }
     ]
